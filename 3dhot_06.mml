@@ -1,0 +1,311 @@
+;[gain=2.0 name=3dhot_06]
+#opll_mode 1
+#tempo 180
+#title {"3D HOT RALLY - MONSTER [BGM3]"}
+
+#alloc {a=2000,b=2000,c=2000,d=2000,e=2000}
+
+ABDER [0
+
+A @6v13o5l8
+; 1
+A q1r8a+4.a+4.r8a+4.a+4.q3a8q8g1
+; 2
+A q7a+4.q6a4q7a+8q6a8q8f8q3g4
+; 3
+A q1a+4.a+4.q3a8q7a+4a4q8a+8>c8q6d8q5f8
+; 4
+A q3e8q6d16q7c2...q8f8e8c8f8q6g8q8a+8>q3c4<
+; 5
+A q1a+4.a+4.q3a8q6a+4a4q3a+8a8f8g8
+; 6
+A q8g+32q7a16.^4q8g1^4r2
+; 7
+A q1a+4.a+4.q3a8q7a+4a4q8a+8>q7c8q6d8f8
+; 8
+A q3e8q6d16q8c1&c2r4..
+; 9
+A <q1c4.c4.r8c4.c4.q2d4
+; 10
+A q7f4.e4.c4.c4.q6c4q4c4.
+; 11
+A q1c4.c4.r8c4.c4.q2d4
+; 12
+A q7f4.e4.d4.e4.<g8.g8.q4g4.
+; 13
+A >>q6c4d4q3d+8<q7d+2..q3f8q6g4
+; 14
+A f4d+4f4q7f4e8c8<g8g8.g8.q4g4.
+; 15
+A >>q6c4d4q3d+8<q8d+2.q6f4g4
+; 16
+A f4d+4f4g4q4g8q2g4q4g8q2g4g4
+; 17
+A <q1a+4.a+4.r8a+4.a+4.q3a8q8g1
+; 18
+A q7a+4.q6a4q7a+8q6a8q8f8q3g4
+; 19
+A q1a+4.a+4.q3a8q7a+4a4q8a+8>c8q6d8q5f8
+; 20
+A q3e8q6d16q7c2...q8f8e8c8f8q6g8q8a+8>q3c4
+; 21
+A <q1a+4.a+4.q3a8q6a+4a4q3a+8a8f8g8
+; 22
+A q8g+32q7a16.^4q8g1^4r2
+; 23
+A q1a+4.a+4.q3a8q7a+4a4q8a+8>q7c8q6d8f8
+; 24
+A q3e8q6d16q7c16^2.<q3a+8q6a16q7g16^2.
+; 25
+A q3a8q6c16q7a16^2.q5g8q6c16q5g8q6c16g8.c16q5g8q3f8f8
+; 26
+A e8q6d16q7c16^2.<q3a+8q6a16q7g16^2.
+; 27
+A q3a8q6c16q7a16^2.>q5c8<q6f16>q5c8<q6f16>c8.<f16>q5c8q3c8q2d4.
+; 28
+A q6a4b4>q3c8<q7c2..q3d8q6e4
+; 29
+A d4c4d4q7d4c+8<a8e8e8.e8.q4e4.
+; 30
+A >q6a4b4>q3c8<q8c2.q6d4e4
+; 31
+A d4c4d4e4q4e8q2e4q4e8q2e4q4d8<<
+; 32
+A @6
+A q8a2a2>q7c+8^2d4q4e8
+; 33
+A q8e8^2q7a4q6e8q8e4d4<q6a8q7b4.
+; 34
+A q8a2a2>q7c+8^2d4q4e8
+; 35
+A q8e8^2q7a4>c2.d4q6e4
+; 36
+A @9 q3e8q2e4q3e8q2e4g4q3e8q2e4q3e8e8c8q2d4
+; 37
+A q3e8q2e4q3e8q2e4g4q3e8q2e4q3e8e8c8q2d4
+; 38
+A q3e8g8e8g8e8g8q6e4q3e8g8g8g8e8c8<a8
+
+B @6v13l8o5
+; 1
+B q1r8f4.f4.r8f4.f4.q3f8q4e4
+; 2
+B q1e4.e4.q7d+4.q6d4q7c8q6f8<q8a+8q3a4>
+; 3
+B q1d4.d4.q3c8q7d4c4q8d8e8q6f8q5a8
+; 4
+B q3g8q6f16q8e16d8e8f8g8a+8>q4c4q8c4<g8>c8q6d8q8f8q3g4
+; 5
+B >q1c4.c4.q3c8q6c4c4q3c8c8c8c8
+; 6
+B q8c8<<f8e8c8f8e8q6c8q3c4q8f8e8c8g16f16e16c16<g16f16e16q3c8.
+; 7
+B >>>q1c4.c4.q3c8q7c4c4c8c8q6c8c8
+; 8
+B <q3g8q6f16e2...<q8f8e8c8<q3g8g8g8q2g4
+; 9
+B >q1f4.f4.r8f4.f4.q2f4
+; 10
+B >q7c4.c4.<g4.q8f8e8c8g16f16e16q2c16<q8g16f16e16c64r32.^8
+; 11
+B >q1f4.f4.r8f4.f4.q2f4
+; 12
+B >q7c4.c4.>c4.c4.<<e8.d8.q4c4.
+; 13
+B >q6d+4f4q3g8<q7a+2..q3a+8q6a4
+; 14
+B a4g+4a+4>q7c4c8<g8f8d+8.d8.q4c4.
+; 15
+B >q6d+4f4q3g8<q8a+2.q6a+4a4
+; 16
+B a4a4a4>c4q4c8q2c4q4c8q2c4<b4
+; 17
+B q1f4.f4.r8f4.f4.q3f8q4e4
+; 18
+B q1e4.e4.q7d+4.q6d4q7c8q6f8<q8a+8q3a4>
+; 19
+B q1d4.d4.q3c8q7d4c4q8d8e8q6f8q5a8
+; 20
+B q3g8q6f16q8e16d8e8f8g8a+8>q4c4q8c4<g8>c8q6d8q8f8q3g4
+; 21
+B >q1c4.c4.q3c8q6c4c4q3c8c8c8c8
+; 22
+B q8c8<<f8e8c8f8e8q6c8q3c4q8f8e8c8g16f16e16c16<g16f16e16q3c8.
+; 23
+B >>>q1c4.c4.q3c8q7c4c4c8c8q6c8c8
+; 24
+B <q3g8q6f16q7e16^2.q3g8q6f16q7d+16^2.
+; 25
+B q3f8<q6a16>q7f16^2.q5c8<q6g+16>q5c8<q6g+16>c8.<g+16>q5c8q3d8d8
+; 26
+B <g8q6f16q7e16^2.q3g8q6f16q7d+16^2.
+; 27
+B q3f8<q6a16>q7f16^2.q5a8q6c16q5a8q6c16a8.c16q5a8q3a8q2b4.
+; 28
+B >q6c4d4q3e8<q7g2..q3g8q6f+4
+; 29
+B f+4f4g4q7a4a8e8d8c8.<b8.q4a4.
+; 30
+B >>q6c4d4q3e8<q8g2.q6g4f+4
+; 31
+B f+4f+4f+4a4q4a8q2a4q4a8q2a4q4g+8
+; 32
+B @4 (2
+B >q8e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16
+; 33
+B >e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c16<a16e16d16c16<a16>>e16d16c16<a16e16d16c16<q5a16
+; 34
+B >>q8e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16>e16d16c+16<a16
+; 35
+B >e16d16c+16<a16>e16d16c+16<a16>e16d16c16<a16>e16d16c16<a16>e16d16c16<a16e16d16c16<a16>>e16d16c16<a16e16d16c16<a16
+; 36
+B @4 )2
+B <q4g8>>q3a8a8<<q4g8>>q3a8a8<<q4a+8>>>q3c8<<<q4g8>>q3a8a8<<q4g8>>q3a8a8c+8d+8
+; 37
+B <<q4g8>>q3a8a8<<q4g8>>q3a8a8<<q4a+8>>>q3c8<<<q4g8>>q3a8a8<<q4g8>>q3a8a8c+8d+8
+; 38
+B @12 <<q4g8>>q3f8g+8f8g+8f8g+8q6f4q3f8g+8g+8g+8f8a8d8
+
+*10={ bh8h8s8h8 bh8h8s8h8 }
+
+*0={ bh8h8s8h8 bh8h8s8h8 }
+*1={ bh8h8s8h8 bh8s8s8s8 }
+*2={ bh8h8s8h8 bh8s8s16s16s16s16 }
+*3={ bh8h8s8h8 s8.s8.s8 }
+*4={ bh8s8s8h8 s8s8s16s16s16s16 }
+
+
+R vb13vs13vh12vc12l8
+; 1
+R *10 *0
+; 2
+R *10 *1
+; 3
+R *10 *0
+; 4
+R *10 *2
+; 5
+R *10 *0
+; 6
+R *10 *0
+; 7
+R *10 *0
+; 8
+R *10 *2
+; 9
+R *10 *0
+; 10
+R *10 *1
+; 11
+R *10 *0
+; 12
+R *10 *2
+; 13
+R *10 *0
+; 14
+R *10 *3
+; 15
+R *10 *0
+; 16
+R *10 *4
+; 17
+R *10 *0
+; 18
+R *10 *1
+; 19
+R *10 *0
+; 20
+R *10 *2
+; 21
+R *10 *0
+; 22
+R *10 *0
+; 23
+R *10 *0
+; 24
+R *10 bh8h8s8h8 s8h8s16s16s16s16
+; 25-28
+R [
+R *10 s16h16h16s16h16h16s16h16h16s16h16h16s8s8
+; 26
+R *10 *0
+R ]
+; 29
+R *10 *3
+; 30
+R *10 *0
+; 31
+R *10 *4
+; 32
+R *10 *0
+; 33
+R *10 *0
+; 34
+R *10 *0
+; 35
+R *10 bh8h8s8h8 bh8h8s8h4
+; 36-37
+R [s8s4s8 s4s4 s8s4s8 s8s8s4]2
+; 38
+R s8s8s8 s8s8 s8s4s8 s8s8s8s8 s16s16s16s16
+
+D @14v13l8o3q4
+E @10v12l8o3q4
+; 1-3
+DE [c8c8<a+8b8>c8<a8a+8b8>]6
+; 4
+DE c8c8<a+8b8>c8<a8a+8b8> q8c8>q2c8<<q8g8>q2g8<q8a+8>q2a+8<q8b8>q2b8
+; 5-7
+DE [q8c8>q2c8<<q8g8>q2g8<q8a+8>q2a+8<q8b8>q2b8q8c8>q2c8<<q8g8>q2g8<q8a+8>q2a+8<q8b8>q2b8]3
+; 8
+DE q8c8>q2c8<<q8g8>q2g8<q8a+8>q2a+8<q8b8>q2b8q4c8c8<a+8b8>c8<a8a+8b8>
+; 9-11
+DE [
+DE a+8a+8g+8a8a+8g8g+8a8a+8a+8g+8a8a+8g8g+8a8>
+DE |
+DE c8c8<a+8b8>c8<a8a+8b8>c8c8<a+8b8>c8<a8a+8b8
+DE ]
+; 12
+DE c8c8<a+8b8>c8<a8a+8b8>c8c8<a+8b8q6c8.<a+8.g+8
+; 13-15
+DE [ 
+DE q5g+8g+8>q8g+8<q5g+8g+8g+8>q8g+8<q5g+8g8g8>q8g8<q5g8>c8c8>q8c8<q5c8
+DE |
+DE <f8f8>q8f8<q5f8a+8a+8>q8a+8<q5a+8>c8c8>q8c8<q5c8q6c8.<a+8.g+8
+DE ]
+; 16
+DE <f8f8>q8f8<q5f8f8>q8f8<q5f8f+8g8>q8g4<q5g8>q8g4<q5g8>q6g8q4
+; 17-19
+DE [c8c8<a+8b8>c8<a8a+8b8>c8c8<a+8b8>c8<a8a+8b8>]3
+; 20
+DE c8c8<a+8b8>c8<a8a+8b8>q8c8>q2c8<<q8g8>q2g8<q8a+8>q2a+8<q8b8>q2b8
+; 21-23
+DE [q8c8>q2c8<<q8g8>q2g8<q8a+8>q2a+8<q8b8>q2b8q8c8>q2c8<<q8g8>q2g8<q8a+8>q2a+8<q8b8>q2b8]3
+; 24
+DE q8c8>q2c8<<q8g8>q2g8<q8a+8>q2a+8q8c8>q2c8<q8d+8>q2d+8<<q8a+8>q2a+8q8c+8>q2c+8<q8d+8>q2d+8
+; 25
+DE <q8f8>q2f8<q8c8>q2c8<q8d+8>q2d+8<q8f8>q2f8<q8g+8<q5g+8g+8>q8g+8<q5g+8g+8a+8a+8>
+; 26
+DE q8c8>q2c8<<q8g8>q2g8<q8a+8>q2a+8q8c8>q2c8<q8d+8>q2d+8<<q8a+8>q2a+8q8c+8>q2c+8<q8d+8>q2d+8
+; 27
+DE <q8f8>q2f8<q8c8>q2c8<q8d+8>q2d+8<q8f8>q2f8<q8g8<q5g8g8>q8g8<q5g8>q8g8<q5g8f+8
+; 28
+DE f8f8>q8f8<q5f8f8f8>q8f8<q5f8e8e8>q8e8<q5e8a8a8>q8a8<q5a8
+; 29
+DE d8d8>q8d8<q5d8g8g8>q8g8<q5g8a8a8>q8a8<q5a8q6a8.g8.f8q5
+; 30
+DE f8f8>q8f8<q5f8f8f8>q8f8<q5f8e8e8>q8e8<q5e8a8a8>q8a8<q5a8
+; 31
+DE d8d8>q8d8<q4d8d8q5d8>q8d8<q5d8e8>q8e4<q5e8>q8e4<q5e8>q6e8
+; 32-35
+DE [
+DE <q8a8>q2a8<q8a8>q2a8<q8a8>q2a8<q8a8>q2a8<q8g8>q2g8<q8g8>q2g8<q8g8>q2g8<q8g8>q2g8
+; 33
+DE <q8f+8>q2f+8<q8f+8>q2f+8<q8f+8>q2f+8<q8f+8>q2f+8<q8f8>q2f8<q8f8>q2f8<q8f8>q2f8<q8|g8>q2g8
+DE ] f8>q2f8
+; 36-37
+DE [<q8g8>>>q2f8f8<<<q8g8>>>q2f8f8<<<q8a+8>>>q2g+8<<<q8g8>>>q2f8f8<<<q8g8>>>q2f8f8<<q4d+8f8]2
+; 38
+DE <q6g4q4a+8g8a+8g8a+8q7g4q4g8a+8a+8a+8g8a+8b8
+
+ABDER ]

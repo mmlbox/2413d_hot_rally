@@ -1,0 +1,62 @@
+;[gain=2.0 name=3dhot_09]
+#opll_mode 1
+#tempo 200
+#title {"3D HOT RALLY - MESSAGE"}
+
+A @6v13l8
+A [
+A r4o5q7g4g4g+4q6a8g+8a8>q3c4<q6b8a8q2g+4.
+A q7g4g4g+4q6a8g+8a8>q3c4<q6b8a8q2g+4.
+A q7g4g4g+4q6a8g+8a8q3b4>q6c8d8d+8
+A q7e1^4e4f4e4
+A e4q2d4.<q6a8b8>c8e8q3d4c4<q6b8a+8b8
+A >q7d4q3c4<q6g8a8a+8q7a2.q6e8f8g8
+A q7a4f4q6a8>q3c4<b4q6g2d8e8f8
+A e8q3d4q6c1^4e8f8f+8
+A ]0
+
+B @6v13l8
+B [
+B r4o4q7b4b4b4>q6d8d8d8q3d4q6d8d8<q2b4.
+B >q7c4c4c4q6c8c8c8q3e4q6c8c8q2c4.
+B <q7b4b4b4>q6d8d8d8q3d4q6f8f8f8
+B q4g8g8g8q3g4g4q7g8q3c+4q7g4g4g4
+B f4q2f4.q6c8f8f8f8q3f4f4q6f8f8f8
+B q7e4q3e4q6c8c8c8q7c+2.<q6a8a8>c+8
+B q7c4<a4>q6c8q3f4d4<q6b2g8g8a8
+B g8q3f4e4q6e8q7f4q4e8q2e4e4q6g8a8>c8
+B ]0
+
+C @8v13l8
+C [ 
+C r4
+C o5q7f4f4f4q6f8f8f8q3f4q6f8f8q2f4.
+C q7e4e4e4q6e8e8e8q3g4q6e8e8q2e4.
+C q7f4f4f4q6f8f8f8q3f4q6a8b8a8
+C q4b8b8b8q3a+4a+4>q7c8<q3a4q7a+4a+4a+4
+C a4q2a4.q6f8a8a8g+8q3g+4g+4q6g+8g+8g+8
+C q7g4q3g4q6e8e8e8g2.c+8c+8e8
+C q7f4c4q6f8q3a4g4q6f2<b8>c8c8
+C c8<q3a4g4q6g8q7a4q4g8q2g4g4>q6c8c8d+8
+C ]0
+
+D @14v13l8
+E @10v12l8
+DE [
+DE o2q2g4.>q4g4q8d8f8f+8g8<q4g4g4>q8g4<g8
+DE >q3c4.>q4c4<q8g8a+8b8>c8<q4c4c4>q8c4<c8
+DE <q3g4.>q4g4q8d8f8f+8g8<q4g4g4>q8g8f+8f8
+DE e4<e8>q4e4>q8e8<e4a8<q4a4>a4q8a8<a8>c+8
+DE q3d4.>q4d4<q8d8>d8<e8q5f4.>q4f4<f4q8f8
+DE q4e4>q8e8<q4e4<q8g8g+8q4a4>q8g8g+8q4a4q8a8<a4
+DE >q4d4>q8d8<q4d4>q8d8<d8q4g4<q8g8>g8<q4g4q8g8>g4
+DE c4g8>q4c4<q8g4.>c8<q4c4c4q8c8<b8a8
+DE ]0
+
+F vb13vs13vh12vc12l8
+F [
+F [bh8h8s8h8h8b8h8b8h8h8s8h8|h8b8h8b8]3 h8c8s16s16s16s16
+F  bh8h8s8h8h8b8h8s8bc8s8s8c8 s8s8c8s8
+F [bh8h8s8h8h8b8h8b8h8h8s8h8 h8b8h8b8]3
+F  bh8h8s8h8h8b8h8s8bc8s8s8c8s8s8c8s8
+F ]0

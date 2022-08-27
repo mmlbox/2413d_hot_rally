@@ -1,0 +1,44 @@
+;[gain=2.0 name=3dhot_08]
+#opll_mode 1
+#tempo 100
+#title {"3D HOT RALLY - CONGRATULATION"}
+
+ABDER [0
+
+A @2v13o5l16
+A o5q6e16g16a16q8a+8e8g16q3a8q8a+8.e8g8
+A a8q7a+16a+16a16a16q8g16q4f8q8d4.
+A g16a+16>c16d8c8d16q4c8q8f8.e8d16
+A q4c8<b8>c8<q7b16>q8c16<b16q6g16q7g4.
+A q6e16g16a16q8a+8e8g16q3a8q8a+8.e8g8
+A a8q7a+16a+16a16a16q8g16q4f8q8d4.
+A g16a+16>c16d8c8d16q4c8q8f8.e8f16
+A f+8q6g4.<q7g16g16q5g4.
+
+B @2v13o4
+B o4q2b8.>q8e8<a+8.>q3e8q7e8e16<q8a+4
+B >c8q7d16d16c16c16<q8b16q4a8>q8c8.<q5b8.
+B >q2d8.q8a+8e8q6a+16q4e8q8a+8.g8f16
+B q4e8d8e8q7d16q8e16d16q6c16<q7b8b16>c16<q3b8
+B q2b8.>q8e8<a+8.>q3e8q7e8e16<q8a+4
+B >c8q7d16d16c16c16<q8b16q4a8>q8c8.<q5b8.
+B >q2d8.q8a+8e8q6a+16q4e8q8a+8.g8>q7d16
+B q4c8<q7b8b16>c16<q3b8q7d16c16<b16b16g16>e16q4d8
+
+R vb13vs13vh12vc12l16
+R  s16s16s16bh16h16s16h16h16s16h16bh16h16bh16s16bh16h16
+R [s16h16h16bh16h16s16h16h16s16h16bh16h16bh16s16h16bh16]7
+
+D @14v13l8
+E @10v12l8
+
+DE o3q3g8<q8g16>q5c8>q8c16<c16>c16<a+16g16q5c8q7c16>q8c16<q5c8
+DE q8a+16a16g16<q7g16q4g8>q5g8q8d16f16<q5g8>q8g16<q5g8.
+DE >q4g8<q8g16>c8>c16<c16a+16a16g16q4c8>c8<q8c16<a+16
+DE >q4c8<g8>q8g16<g8>f16e16q6d16<q5g8>q8g16<q5g8.
+DE >q8g16d16c+16q5c8>q8c16<c16>c16<a+16g16q5c8q7c16>q8c16<q5c8
+DE q8a+16a16g16<q7g16q4g8>q5g8q8d16f16<q5g8>q8g16<q5g8.
+DE >q4g8<q8g16>c8>c16<c16a+16a16g16q4c8>c8<q8c16c+16
+DE q4d8<q5g8>q8g16<q5g8.q7a+16>c16<q4g8q8g16>g16<q4g8
+
+ABDER ]

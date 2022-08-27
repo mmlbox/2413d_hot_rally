@@ -1,0 +1,33 @@
+;[gain=2.0 name=3dhot_03]
+#opll_mode 1
+#tempo 75
+#title {"3D HOT RALLY - JUST START"}
+
+ABDER [0
+
+A @6v13l%14o5
+A q7e%28q6f+%21q3g%14q8f+%7g%14f+%14d%14q6e%21q7e%7f+%7q3f+%14q8g%6r%57
+A q7e%28q6f+%21q3g%14q8f+%7g%14f+%14d%14q6e%21q7e%7f+%7q3f+%14q8g%6r%57
+A q7g%28q6a%21q3a+%14q8a%7a+%14a%14f%14q6g%21q7g%7a%7q3a%14q8a+%6r%57
+A q7g%28q6a%21q3a+%14q8a%7a+%14a%14f%14q6g%21q7g%7a%7q3a%14q8a+%6r%57
+
+B @9v13o4l%14
+B q7b%28>q6c+%21q3d%14q8c+%7d%28<q7b%35b%7>c+%7q3c+%14q8d%6r%57
+B <q7b%28>q6c+%21q3d%14q8c+%7d%28<q7b%35b%7>c+%7q3c+%14q8d%6r%57
+B q7d%28q6e%21q3f%14q8e%7f%28q7d%35d%7e%7q3e%14q8f%6r%57
+B q7d%28q6e%21q3f%14q8e%7f%28q7d%35d%7e%7q3e%14q8f%6r%57
+
+R vb13vs13vh12vc12l%7
+R b%7h%7h%7h%7s%7h%7h%7s%7h%7s%7s%7h%7h%7s%7s%7s%7b%7h%7h%7h%7s%7h%7h%7s%7h%7h%7s%7h%7h%7s%7c%7c%7
+R b%7h%7h%7h%7s%7h%7h%7s%7h%7s%7s%7h%7h%7s%7s%7s%7b%7h%7h%7h%7s%7h%7h%7s%7h%7h%7s%7h%7h%7s%7c%7c%7
+R b%7h%7h%7h%7s%7h%7h%7s%7h%7s%7s%7h%7h%7s%7s%7s%7b%7h%7h%7h%7s%7h%7h%7s%7h%7h%7s%7h%7h%7s%7c%7c%7
+R b%7h%7h%7h%7s%7h%7h%7s%7h%7s%7s%7h%7h%7s%7s%7s%7b%7h%7h%7h%7s%7h%7h%7s%7h%7h%7s%7h%7h%7s%7c%7c%7
+
+D @14v13l%14
+E @10v12l%14
+DE o2q6a%35>q4a%14<q3a%21a%21>q8e%7q7g%14a%15<q2a%20>q4a%14a%14<q8f+%21g%14g+%14
+DE q7a%35>q4a%14<q3a%21a%21>q8e%7g%14a%14<q3a%21>q4a%14a%14<q8a%21a+%14b%14
+DE >q7c%35>q4c%14<q3c%21c%21q8g%7a+%14>c%14<q3c%21>q4c%14c%14<<q8a%21a+%14b%14
+DE >q7c%35>q4c%14<q3c%21c%21q8g%7a+%14>c%14<q3c%21>q4c%14c%14<q8c%21<b%14a+%14
+
+ABDER ]

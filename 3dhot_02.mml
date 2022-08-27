@@ -1,0 +1,29 @@
+;[gain=2.0 name=3dhot_02]
+#opll_mode 1
+#tempo 180
+#title {"3D HOT RALLY - GAME SELECT"}
+
+ABCDER [0 [
+
+A @9v13l8
+A o5q4dg>c<q6b4.g4q4afa+q6a4.f4
+A q4gd+gq5a+4a4q4ggf+eq6f+4.d4
+
+B @10v13l8
+B o5q4dg>c<q6b4.g4q4afa+q6a4.f4
+B q4gd+gq5a+4a4q4ggf+eq6f+4.d4
+
+C @8v13q8o3
+C g1>f1
+C a+1a1
+
+R vh12vb13vs14vc12l8
+R b:h:h:b:h:h:s:h:b:h:h:b:h:h:s:h:
+R b:h:h:b:h:h:s:h:b:h:h:b:h:s:s:s:
+
+D @14v13l8
+E @10v12l8
+DE o2q7ggg>g4<q8ggg>q7f<q8f4>q7f4<q8f4f>
+DE d+4q7d+>d+4<q8d+4>q7d+<dq6dq7d>d4<dd>d
+
+ABCDER ] ]

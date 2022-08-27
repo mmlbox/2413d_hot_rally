@@ -1,0 +1,31 @@
+;[gain=2.0 name=3dhot_07]
+#opll_mode 1
+#tempo 100
+#title {"3D HOT RALLY - GOAL IN"}
+
+A @2v13o5l16
+A g32a32b32>c32d8d16q7d16e16q4e8q8f4^16e16f16
+A e16q4d8c8<q8b16>c16c16d16<b4.d16
+A g32a32b32>c32d8d16q7d16e16q4e8f8f8q8e16f16e16
+A c16q5d2...
+
+B @2v13o5l16
+B g32a32b32>c32<b8b16q7b16>c16q4c8q8d4^16c16d16
+B c16<q4b8a8q8g16a16a16b16q5g2^16
+B q8b8b16q7b16>c16q4c8d8d8q8c16d16c16
+B <a16q5b2...
+
+R vb13vs13vh13vc13l16
+R r8h16h16s16h16h16s16h16b16h16h16s16h16h16s16
+R h16b16h16h16s16h16h16s16h16b16h16h16s16h16h16s16
+R h16b16s16h16h16s16h16s16h16s8s8s16h16s16
+R s16c2...
+
+D @14v13o3l8
+E @10v12o3l8
+DE r8q6g4^16<q4g8g8>g8<g8>q8g16
+DE c16q4g8<g8q8g16>f16e16d16<q4g8>q8g8f8e8
+DE d16q6g4^16<q4g8>g8<g8>q8c16<a+16>c16
+DE f16<q4g2...
+
+

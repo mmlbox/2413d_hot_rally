@@ -1,0 +1,21 @@
+;[gain=2.0 name=3dhot_10]
+#opll_mode 1
+#tempo 225
+#title {"3D HOT RALLY - GAME OVER"}
+
+A @9v13o6
+A r2q4g4q8f4e8f8e8q4d4<q8g8>c8<b1
+A r1
+
+B @10v13o5
+B r2q4b4>q8d4c8d8c8<q4b4q8d8d+8d1
+B r1
+
+R vs13vc13cs8cs8cs8
+
+D @14v13o3
+D r4.q5g4<q8g8>f8e8d8<g8>g8<g8>g8a+8>c8<<g1
+D r1
+
+
+
